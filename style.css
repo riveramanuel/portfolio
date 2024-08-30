@@ -372,10 +372,10 @@ nav .fa-solid{
         font-size: 25px;
     }
     nav ul{
-        background: #1e1b4b;
+        background: #DAA520;
         position: fixed;
         top: 0;
-        right: 0px;
+        right: -200px;
         width: 200px;
         height: 100vh;
         padding-top: 50px;
